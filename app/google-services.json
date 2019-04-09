@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "871189466852",
+    "firebase_url": "https://jgtn-project.firebaseio.com",
+    "project_id": "jgtn-project",
+    "storage_bucket": "jgtn-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871189466852:android:13c3c6a65bcbec53",
+        "android_client_info": {
+          "package_name": "com.example.jogathonc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871189466852-lntk9bj1da7t71sdvddqavvb3r4ej0d5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jogathonc",
+            "certificate_hash": "f9fe4d69f6b0bd20a6897c32829ba9684977540a"
+          }
+        },
+        {
+          "client_id": "871189466852-ebd3cir798eq5l5id2o7vmajs3uemd7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6y1QOERd0uVpLRCjCgyhCXTR_ljc7-CQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871189466852-ebd3cir798eq5l5id2o7vmajs3uemd7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

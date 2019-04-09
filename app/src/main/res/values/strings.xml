@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Jog A Thon C</string>
+    <string name="button">Button</string>
+    <string name="masukan_bib">Masukan BIB</string>
+    <string name="Submit">Submit</string>
+    <string name="Cancel">Cancel</string>
+    <string name="add_new">Add New</string>
+    <string name="Top5">Top 5</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="masukan_bib1">Masukan Bib</string>
+    <item name="plus" type="id" />
+    <item name="minus" type="id" />
+    <item name="remove" type="id" />
+    <item name="bib" type="id" />
+    <item name="bibValue" type="id" />
+    <item name="layoutR" type="id" />
+</resources>
